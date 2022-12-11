@@ -106,96 +106,96 @@
       <tuv lang="en-US">
         <seg>&amp;Address</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;地址</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154040Z">
+        <seg>地址(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Align</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;对齐</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153742Z">
+        <seg>对齐(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Answer Network</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;问答网络</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153622Z">
+        <seg>问答网络(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Bold</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;粗体</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153920Z">
+        <seg>粗体(&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Cancel</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;取消</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153644Z">
+        <seg>取消(&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Check Activity</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;检查活动</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153638Z">
+        <seg>检查活动(&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Close</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;关闭</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153650Z">
+        <seg>关闭(&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Copy</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;复制</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153808Z">
+        <seg>复制(&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Decrease Indent</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;减少缩进量</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153951Z">
+        <seg>减少缩进量(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Delete Cluster</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;删除集群</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153705Z">
+        <seg>删除集群(&amp;D)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Dial</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;拨号</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153714Z">
+        <seg>拨号(&amp;D)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Disable Password</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;禁用密码</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153642Z">
+        <seg>禁用密码(&amp;D)</seg>
       </tuv>
     </tu>
     <tu>
@@ -210,8 +210,8 @@
       <tuv lang="en-US">
         <seg>&amp;Enable Password</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;启用密码</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153641Z">
+        <seg>启用密码(&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -226,8 +226,8 @@
       <tuv lang="en-US">
         <seg>&amp;Font Name...</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;字体名称...</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154045Z">
+        <seg>字体名称(&amp;F)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,48 +242,48 @@
       <tuv lang="en-US">
         <seg>&amp;Instructions</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;说明</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153614Z">
+        <seg>说明(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Italic</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;斜体</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153924Z">
+        <seg>斜体(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;New</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;新建</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153743Z">
+        <seg>新建(&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;No</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;否</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153640Z">
+        <seg>否(&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Numbered List</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;编号列表</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154006Z">
+        <seg>编号列表(&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Open...</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;打开...</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153744Z">
+        <seg>打开(&amp;O)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -298,72 +298,72 @@
       <tuv lang="en-US">
         <seg>&amp;Paragraph</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;段落</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154014Z">
+        <seg>段落(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Password</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;密码</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153630Z">
+        <seg>密码(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Paste</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;粘贴</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153801Z">
+        <seg>粘贴(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Redo</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;重做</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153749Z">
+        <seg>重做(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Save</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;保存</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153745Z">
+        <seg>保存(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Scripting</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;脚本</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153626Z">
+        <seg>脚本(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Send</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;发送</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154124Z">
+        <seg>发送(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Strikethrough</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;删除线</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153930Z">
+        <seg>删除线(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Test Activity</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;测试活动</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153636Z">
+        <seg>测试活动(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,40 +378,40 @@
       <tuv lang="en-US">
         <seg>&amp;Uncluster</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;取消聚成集群</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153701Z">
+        <seg>取消集群(&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Underline</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;下划线</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153927Z">
+        <seg>下划线(&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Undo</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;撤销</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153748Z">
+        <seg>撤消(&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Update and Make a Copy</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;更新并制作副本</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153645Z">
+        <seg>更新并制作副本(&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&amp;Variable Manager</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;变量管理器</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153611Z">
+        <seg>变量管理器(&amp;V)</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,8 +426,8 @@
       <tuv lang="en-US">
         <seg>&amp;Welcome</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;欢迎</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153610Z">
+        <seg>欢迎(&amp;W)</seg>
       </tuv>
     </tu>
     <tu>
@@ -442,8 +442,8 @@
       <tuv lang="en-US">
         <seg>&amp;Yes</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;是</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153639Z">
+        <seg>是(&amp;Y)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5138,32 +5138,32 @@ PDU to create the PDU at the next lower layer.</seg>
       <tuv lang="en-US">
         <seg>Align &amp;Center</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;居中对齐</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153935Z">
+        <seg>对齐居中(&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Align &amp;Justify</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;两端对齐</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153947Z">
+        <seg>两端对齐(&amp;J)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Align &amp;Left</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;左对齐</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153932Z">
+        <seg>左对齐(&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Align &amp;Right</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;右对齐</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153936Z">
+        <seg>右对齐(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6338,8 +6338,8 @@ Destination: %3</seg>
       <tuv lang="en-US">
         <seg>Bac&amp;kground Color...</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;背景颜色...</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154106Z">
+        <seg>背景颜色(&amp;B)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6748,8 +6748,8 @@ View Previous Events</seg>
       <tuv lang="en-US">
         <seg>Bulle&amp;ted List</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;项目符号列表</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154005Z">
+        <seg>项目符号列表(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9256,8 +9256,8 @@ Prompt</seg>
       <tuv lang="en-US">
         <seg>Cu&amp;t</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;剪切</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153758Z">
+        <seg>剪切(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9548,8 +9548,8 @@ Physical View</seg>
       <tuv lang="en-US">
         <seg>D&amp;isconnect</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;中断连接</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153713Z">
+        <seg>中断连接(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11409,8 +11409,8 @@ Time</seg>
       <tuv lang="en-US">
         <seg>E&amp;xit</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;退出</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154013Z">
+        <seg>退出(&amp;X)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13069,8 +13069,8 @@ Port</seg>
       <tuv lang="en-US">
         <seg>F&amp;ormat</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;格式</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153721Z">
+        <seg>格式(&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13693,8 +13693,8 @@ Port</seg>
       <tuv lang="en-US">
         <seg>Font Si&amp;ze...</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;字号...</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154116Z">
+        <seg>字号(&amp;Z)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14731,48 +14731,48 @@ Address</seg>
       <tuv lang="en-US">
         <seg>Heading &amp;1</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;标题1</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154019Z">
+        <seg>标题&amp;1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Heading &amp;2</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;标题2</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154030Z">
+        <seg>标题&amp;2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Heading &amp;3</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;标题3</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154032Z">
+        <seg>标题&amp;3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Heading &amp;4</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;标题4</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154033Z">
+        <seg>标题&amp;4</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Heading &amp;5</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;标题5</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154033Z">
+        <seg>标题&amp;5</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Heading &amp;6</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;标题6</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154034Z">
+        <seg>标题&amp;6</seg>
       </tuv>
     </tu>
     <tu>
@@ -15339,16 +15339,16 @@ Address</seg>
       <tuv lang="en-US">
         <seg>I&amp;ncrease Indent</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;增加缩进量</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153950Z">
+        <seg>增加缩进量(&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>I&amp;nitial Network</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;初始网络</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153629Z">
+        <seg>初始网络(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17183,8 +17183,8 @@ and all previous settings will be erased.</seg>
       <tuv lang="en-US">
         <seg>Insert &amp;Image...</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;插入图像...</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154010Z">
+        <seg>插入图像(&amp;I)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -25199,8 +25199,8 @@ Local</seg>
       <tuv lang="en-US">
         <seg>Pre&amp;formatted</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;预格式化</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154036Z">
+        <seg>预格式化(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28324,8 +28324,8 @@ layer's PDU to create the PDU at the next higher layer.</seg>
       <tuv lang="en-US">
         <seg>Save &amp;As...</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;另存为...</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153747Z">
+        <seg>另存为(&amp;A)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -28980,8 +28980,8 @@ layer's PDU to create the PDU at the next higher layer.</seg>
       <tuv lang="en-US">
         <seg>Select A&amp;ll</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;选择所有</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153913Z">
+        <seg>选择全部(&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30623,8 +30623,8 @@ Address:</seg>
       <tuv lang="en-US">
         <seg>St&amp;yle</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;风格</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153740Z">
+        <seg>风格(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32095,8 +32095,8 @@ Address:</seg>
       <tuv lang="en-US">
         <seg>Text &amp;Color...</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;文本颜色...</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154057Z">
+        <seg>文本颜色(&amp;C)...</seg>
       </tuv>
     </tu>
     <tu>
