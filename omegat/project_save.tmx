@@ -40,6 +40,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>%1 File</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150400Z" creationid="LiarOnce" creationdate="20221211T150400Z">
+        <seg>%1 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>%1 does not have an IP address.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -194,8 +202,8 @@
       <tuv lang="en-US">
         <seg>&amp;Edit</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;编辑</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150625Z">
+        <seg>编辑(&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -208,10 +216,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&amp;File</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150453Z" creationid="LiarOnce" creationdate="20221211T150453Z">
+        <seg>文件(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&amp;Font Name...</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>&amp;字体名称...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150633Z" creationid="LiarOnce" creationdate="20221211T150633Z">
+        <seg>帮助(&amp;H)</seg>
       </tuv>
     </tu>
     <tu>
@@ -260,6 +284,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>&amp;打开...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;Options</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150629Z" creationid="LiarOnce" creationdate="20221211T150629Z">
+        <seg>选项(&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -336,6 +368,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&amp;Tools</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150632Z" creationid="LiarOnce" creationdate="20221211T150632Z">
+        <seg>工具(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&amp;Uncluster</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -376,10 +416,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&amp;View</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150631Z" creationid="LiarOnce" creationdate="20221211T150631Z">
+        <seg>查看(&amp;V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&amp;Welcome</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>&amp;欢迎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&amp;Window</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150634Z" creationid="LiarOnce" creationdate="20221211T150634Z">
+        <seg>窗口(&amp;W)</seg>
       </tuv>
     </tu>
     <tu>
@@ -590,6 +646,14 @@ Range: 256-2346)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221124T112902Z" creationid="LiarOnce" creationdate="20221124T112902Z">
         <seg>-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>- Error Importing App Meta File</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150457Z" creationid="LiarOnce" creationdate="20221211T150457Z">
+        <seg>- 导入应用程序元文件时出错</seg>
       </tuv>
     </tu>
     <tu>
@@ -4238,6 +4302,22 @@ Setting&lt;/p&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ACL name</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150641Z" creationid="LiarOnce" creationdate="20221211T150641Z">
+        <seg>ACL名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ACL statement</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150729Z" creationid="LiarOnce" creationdate="20221211T150702Z">
+        <seg>ACL语句</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ACLV6</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221124T114040Z" creationid="LiarOnce" creationdate="20221124T114040Z">
@@ -4623,6 +4703,46 @@ Router</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Activity File (*.pka)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150407Z" creationid="LiarOnce" creationdate="20221211T150407Z">
+        <seg>活动文件 (*.pka)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activity File (*.pkac)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150417Z" creationid="LiarOnce" creationdate="20221211T150417Z">
+        <seg>活动文件 (*.pkac)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activity File (*.pkc)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150422Z" creationid="LiarOnce" creationdate="20221211T150422Z">
+        <seg>活动文件 (*.pkc)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activity File (*.pkt)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150416Z" creationid="LiarOnce" creationdate="20221211T150416Z">
+        <seg>活动文件 (*.pkt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activity File (*.pkz)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150419Z" creationid="LiarOnce" creationdate="20221211T150419Z">
+        <seg>活动文件 (*.pkz)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Activity Instructions</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -4687,6 +4807,14 @@ Router</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add Complex PDU</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150957Z" creationid="LiarOnce" creationdate="20221211T150957Z">
+        <seg>添加复杂的PDU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add Complex PDU (C)</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -4699,6 +4827,14 @@ Router</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>添加组件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add File</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150536Z" creationid="LiarOnce" creationdate="20221211T150536Z">
+        <seg>添加文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -5232,6 +5368,14 @@ Access:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>或者，可以在下面的树上定义一些初始值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Always</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150738Z" creationid="LiarOnce" creationdate="20221211T150738Z">
+        <seg>始终</seg>
       </tuv>
     </tu>
     <tu>
@@ -6040,6 +6184,14 @@ Destination: %3</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Auto File Backup Interval</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150339Z" creationid="LiarOnce" creationdate="20221211T150339Z">
+        <seg>自动文件备份间隔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Auto Select Port</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -6298,8 +6450,8 @@ Destination: %3</seg>
       <tuv lang="en-US">
         <seg>Black</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>黑</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150138Z">
+        <seg>Black</seg>
       </tuv>
     </tu>
     <tu>
@@ -6322,8 +6474,8 @@ Destination: %3</seg>
       <tuv lang="en-US">
         <seg>Blue</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>蓝</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150145Z">
+        <seg>Blue</seg>
       </tuv>
     </tu>
     <tu>
@@ -7764,6 +7916,14 @@ Password</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cluster Associations Dialog</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150855Z" creationid="LiarOnce" creationdate="20221211T150855Z">
+        <seg>集群关联对话框</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cluster Icon</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -8510,6 +8670,14 @@ Prompt</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Context help</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150711Z" creationid="LiarOnce" creationdate="20221211T150711Z">
+        <seg>上下文帮助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cookies</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221124T114300Z" creationid="LiarOnce" creationdate="20221124T114300Z">
@@ -9110,6 +9278,22 @@ Prompt</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Custom Device Template File (*.ptd)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150502Z" creationid="LiarOnce" creationdate="20221211T150502Z">
+        <seg>自定义设备模板文件 (*.ptd)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Custom Device Template File (*.ptt)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150516Z" creationid="LiarOnce" creationdate="20221211T150516Z">
+        <seg>自定义设备模板文件 (*.ptt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Custom Devices Dialog</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -9138,6 +9322,14 @@ Prompt</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>自定义界面(%1)在脚本模块中未找到(%2)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Custom Interface Files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150538Z" creationid="LiarOnce" creationdate="20221211T150538Z">
+        <seg>自定义接口文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -10175,6 +10367,14 @@ Time</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Delete Filter</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150658Z" creationid="LiarOnce" creationdate="20221211T150658Z">
+        <seg>删除过滤器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Delete Scenario and All PDUs</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -10967,10 +11167,26 @@ Time</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Draw Ellipse (E)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150945Z" creationid="LiarOnce" creationdate="20221211T150945Z">
+        <seg>绘制椭圆(E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Draw Freeform</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>绘制任意图形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Draw Freeform (F)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150952Z" creationid="LiarOnce" creationdate="20221211T150952Z">
+        <seg>绘制任意图形(F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10983,10 +11199,26 @@ Time</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Draw Line (L)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150937Z" creationid="LiarOnce" creationdate="20221211T150937Z">
+        <seg>绘制线条(L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Draw Rectangle</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>绘制矩形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Draw Rectangle (R)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150943Z" creationid="LiarOnce" creationdate="20221211T150943Z">
+        <seg>绘制矩形(R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12119,6 +12351,14 @@ Time</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Environment File (*.xml)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150505Z" creationid="LiarOnce" creationdate="20221211T150505Z">
+        <seg>环境文件 (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Equivalent IOS Commands</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -12963,6 +13203,22 @@ Port</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>File (*.pkt *.pkac *.pkc)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150434Z" creationid="LiarOnce" creationdate="20221211T150434Z">
+        <seg>文件 (*.pkt *.pkac *.pkc)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File (*.pkt)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150337Z" creationid="LiarOnce" creationdate="20221211T150337Z">
+        <seg>文件 (*.pkt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>File Edit Warning</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -12987,6 +13243,30 @@ Port</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>File Menu Font Size</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150354Z" creationid="LiarOnce" creationdate="20221211T150354Z">
+        <seg>文件菜单字号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File Menu Font Type</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150348Z" creationid="LiarOnce" creationdate="20221211T150348Z">
+        <seg>文件菜单字体类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File Modified</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150519Z" creationid="LiarOnce" creationdate="20221211T150519Z">
+        <seg>文件已修改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>File Name</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -12999,6 +13279,14 @@ Port</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>文件名:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File Open finished</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150445Z" creationid="LiarOnce" creationdate="20221211T150445Z">
+        <seg>文件打开已完成</seg>
       </tuv>
     </tu>
     <tu>
@@ -13019,10 +13307,58 @@ Port</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>File Saving finished</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150531Z" creationid="LiarOnce" creationdate="20221211T150531Z">
+        <seg>文件保存已完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File contains corrupted Logical Workspace data.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150521Z" creationid="LiarOnce" creationdate="20221211T150521Z">
+        <seg>文件包含损坏的逻辑工作区数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File contains corrupted Physical Workspace data.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150520Z" creationid="LiarOnce" creationdate="20221211T150520Z">
+        <seg>文件包含损坏的物理工作区数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>File content is truncated.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>文件内容被截断。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File extension is not supported.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150517Z" creationid="LiarOnce" creationdate="20221211T150517Z">
+        <seg>不支持文件扩展名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File failed to open</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150443Z" creationid="LiarOnce" creationdate="20221211T150443Z">
+        <seg>文件无法打开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File failed to save.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150536Z" creationid="LiarOnce" creationdate="20221211T150536Z">
+        <seg>文件保存失败。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13035,10 +13371,26 @@ Port</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>File saved successfully.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150535Z" creationid="LiarOnce" creationdate="20221211T150535Z">
+        <seg>文件已成功保存。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>File saved:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>保存文件:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File saving finished.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150529Z" creationid="LiarOnce" creationdate="20221211T150529Z">
+        <seg>文件保存已完成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13743,6 +14095,14 @@ Threshold:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Getting Started</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150825Z" creationid="LiarOnce" creationdate="20221211T150825Z">
+        <seg>开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>GigabitEthernet0/0</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221124T113855Z" creationid="LiarOnce" creationdate="20221124T113855Z">
@@ -13849,8 +14209,8 @@ Threshold:</seg>
       <tuv lang="en-US">
         <seg>Green</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>绿</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150143Z">
+        <seg>Green</seg>
       </tuv>
     </tu>
     <tu>
@@ -13963,6 +14323,14 @@ Threshold:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>访客登录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Guest Save -- %1</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150850Z" creationid="LiarOnce" creationdate="20221211T150850Z">
+        <seg>来宾保存 -- %1</seg>
       </tuv>
     </tu>
     <tu>
@@ -14425,6 +14793,14 @@ Address</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hide Event List on Start</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T151038Z" creationid="LiarOnce" creationdate="20221211T151038Z">
+        <seg>开始时隐藏事件列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hide GUI Tab</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -14445,6 +14821,14 @@ Address</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>隐藏链路指示灯(不推荐使用)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hide Network Component Box in Wiring Closets</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T151041Z" creationid="LiarOnce" creationdate="20221211T151041Z">
+        <seg>在配线室中隐藏网络元件盒</seg>
       </tuv>
     </tu>
     <tu>
@@ -14485,6 +14869,14 @@ Address</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>隐藏标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hide User Created Packet Window</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T151045Z" creationid="LiarOnce" creationdate="20221211T151045Z">
+        <seg>隐藏用户创建的数据包窗口</seg>
       </tuv>
     </tu>
     <tu>
@@ -16477,6 +16869,14 @@ and all previous settings will be erased.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Incompatible File -- %1</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150404Z" creationid="LiarOnce" creationdate="20221211T150404Z">
+        <seg>不兼容的文件 -- %1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Incomplete Feedback</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -16761,6 +17161,14 @@ Local</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Instructions</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150239Z" creationid="LiarOnce" creationdate="20221211T150239Z">
+        <seg>说明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Instructions:</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -16991,6 +17399,14 @@ Port</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>输入的目的端口号无效.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Invalid File -- %1</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150440Z" creationid="LiarOnce" creationdate="20221211T150440Z">
+        <seg>无效文件 -- %1</seg>
       </tuv>
     </tu>
     <tu>
@@ -18605,6 +19021,14 @@ ID</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>List of statements</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150724Z" creationid="LiarOnce" creationdate="20221211T150724Z">
+        <seg>语句表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Listen ...</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -18617,6 +19041,14 @@ ID</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>监听端口号:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Listening Ports ...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150859Z" creationid="LiarOnce" creationdate="20221211T150859Z">
+        <seg>侦听端口 ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -18933,6 +19365,22 @@ ID</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Locking / Starting</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T151022Z" creationid="LiarOnce" creationdate="20221211T151022Z">
+        <seg>锁定/启动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Locking / Starting Items</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T151021Z" creationid="LiarOnce" creationdate="20221211T151021Z">
+        <seg>锁定/启动项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Locking Tree Place Holder</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -19009,6 +19457,14 @@ ID</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>逻辑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Logical View</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150902Z" creationid="LiarOnce" creationdate="20221211T150902Z">
+        <seg>逻辑视图</seg>
       </tuv>
     </tu>
     <tu>
@@ -19658,8 +20114,8 @@ Address</seg>
       <tuv lang="en-US">
         <seg>Magenta</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>品红</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150150Z">
+        <seg>Magenta</seg>
       </tuv>
     </tu>
     <tu>
@@ -19708,6 +20164,14 @@ Address</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>主界面:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Main Menu</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150638Z" creationid="LiarOnce" creationdate="20221211T150638Z">
+        <seg>主菜单</seg>
       </tuv>
     </tu>
     <tu>
@@ -19917,6 +20381,14 @@ of Users:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>超出中等优先级队列大小，数据包被丢弃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Menu Toolbar</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150637Z" creationid="LiarOnce" creationdate="20221211T150637Z">
+        <seg>菜单工具栏</seg>
       </tuv>
     </tu>
     <tu>
@@ -20859,6 +21331,14 @@ ID</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Network File (*.pkt)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150333Z" creationid="LiarOnce" creationdate="20221211T150333Z">
+        <seg>网络文件 (*.pkt)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Network Information</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -20927,6 +21407,14 @@ ID</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>中子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Never</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150743Z" creationid="LiarOnce" creationdate="20221211T150743Z">
+        <seg>从不</seg>
       </tuv>
     </tu>
     <tu>
@@ -21047,6 +21535,14 @@ ID</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>新建行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New filter</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150656Z" creationid="LiarOnce" creationdate="20221211T150643Z">
+        <seg>新建过滤器</seg>
       </tuv>
     </tu>
     <tu>
@@ -22175,8 +22671,8 @@ Hop IP</seg>
       <tuv lang="en-US">
         <seg>Orange</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>橙</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150149Z">
+        <seg>Orange</seg>
       </tuv>
     </tu>
     <tu>
@@ -23053,6 +23549,14 @@ Local</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Password Does Not Match -- %1</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150547Z" creationid="LiarOnce" creationdate="20221211T150547Z">
+        <seg>密码不匹配 -- %1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Password Options</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -23429,6 +23933,14 @@ Local</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Physical View</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150903Z" creationid="LiarOnce" creationdate="20221211T150903Z">
+        <seg>物理视图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pick a different PT file to export.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -23447,8 +23959,8 @@ Local</seg>
       <tuv lang="en-US">
         <seg>Pink</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>粉</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150151Z">
+        <seg>Pink</seg>
       </tuv>
     </tu>
     <tu>
@@ -23461,10 +23973,18 @@ Local</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Place Note</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150917Z" creationid="LiarOnce" creationdate="20221211T150917Z">
+        <seg>放置注释</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Place Note (N)</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>放置说明(N)</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150929Z">
+        <seg>放置注释(N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -23549,6 +24069,14 @@ Local</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Plain Editor</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150216Z" creationid="LiarOnce" creationdate="20221211T150216Z">
+        <seg>纯文本编辑器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Play (Hands Free) (Alt+P)</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -23629,10 +24157,34 @@ Local</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please Select Backup File</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150510Z" creationid="LiarOnce" creationdate="20221211T150510Z">
+        <seg>请选择备份文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please Select a File to Restore</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150509Z" creationid="LiarOnce" creationdate="20221211T150509Z">
+        <seg>请选择要还原的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please Select a File to Start Upgrade Process.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>请选择一个文件以开始更新进程.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please Select a File to Upgrade Firmware</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150513Z" creationid="LiarOnce" creationdate="20221211T150513Z">
+        <seg>请选择要升级固件的文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -25821,6 +26373,14 @@ Local</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Realtime Mode</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150901Z" creationid="LiarOnce" creationdate="20221211T150901Z">
+        <seg>实时模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Realtime Mode (Shift+R)</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -26051,8 +26611,8 @@ Value</seg>
       <tuv lang="en-US">
         <seg>Red</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>红</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150141Z">
+        <seg>Red</seg>
       </tuv>
     </tu>
     <tu>
@@ -26386,6 +26946,14 @@ layer's PDU to create the PDU at the next higher layer.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rename File</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150459Z" creationid="LiarOnce" creationdate="20221211T150459Z">
+        <seg>重命名文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rename Scenario</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -26398,6 +26966,14 @@ layer's PDU to create the PDU at the next higher layer.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>重命名场景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rename filter</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150644Z" creationid="LiarOnce" creationdate="20221211T150644Z">
+        <seg>重命名过滤器</seg>
       </tuv>
     </tu>
     <tu>
@@ -26546,6 +27122,22 @@ layer's PDU to create the PDU at the next higher layer.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Resize</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150923Z" creationid="LiarOnce" creationdate="20221211T150915Z">
+        <seg>调整大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resize (Alt+R)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150916Z" creationid="LiarOnce" creationdate="20221211T150916Z">
+        <seg>调整大小(Alt+R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Resize Shape (Alt+R)</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -26662,6 +27254,14 @@ layer's PDU to create the PDU at the next higher layer.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>重试时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rich Editor</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150225Z" creationid="LiarOnce" creationdate="20221211T150218Z">
+        <seg>富文本编辑器</seg>
       </tuv>
     </tu>
     <tu>
@@ -27810,6 +28410,14 @@ layer's PDU to create the PDU at the next higher layer.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Script Engine Files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150537Z" creationid="LiarOnce" creationdate="20221211T150537Z">
+        <seg>脚本引擎文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Script Files (*.js)</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -28102,6 +28710,22 @@ layer's PDU to create the PDU at the next higher layer.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>选择</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select %1 File to Export</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150525Z" creationid="LiarOnce" creationdate="20221211T150525Z">
+        <seg>选择要导出的 %1 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select (Esc)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150912Z" creationid="LiarOnce" creationdate="20221211T150912Z">
+        <seg>选择(Esc)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29188,6 +29812,22 @@ Num</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show Object List</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150904Z" creationid="LiarOnce" creationdate="20221211T150904Z">
+        <seg>显示对象列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show Pages as Tabs</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150227Z" creationid="LiarOnce" creationdate="20221211T150227Z">
+        <seg>将页面显示为选项卡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show Port Labels When Mouse Over in Logical Workspace</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -29240,6 +29880,14 @@ Num</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>显示视图区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show Workspace List</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150853Z" creationid="LiarOnce" creationdate="20221211T150853Z">
+        <seg>显示工作区列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -29645,6 +30293,14 @@ Address:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Specific Time</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150744Z" creationid="LiarOnce" creationdate="20221211T150744Z">
+        <seg>具体时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Specifications</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -29785,6 +30441,22 @@ Address:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>开始监听</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start in Physical Workspace</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T151035Z" creationid="LiarOnce" creationdate="20221211T151024Z">
+        <seg>在物理工作空间启动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start in Simulation Mode</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T151025Z" creationid="LiarOnce" creationdate="20221211T151025Z">
+        <seg>在模拟模式下启动</seg>
       </tuv>
     </tu>
     <tu>
@@ -30165,6 +30837,14 @@ Address:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Submit statement</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150732Z" creationid="LiarOnce" creationdate="20221211T150704Z">
+        <seg>提交语句</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Subnet Mask</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -30249,6 +30929,14 @@ Address:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>支持的文件(*.htm *.html *.png *.jpg *.gif *.css *.js *.xml);;HTML文件(*.htm *.html);;图像(*.png *.jpg *.gif);;样式表(*.css);;Javascript文件(*.js);;XML文件(*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Supported Files (*.png *.jpg *.gif)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150528Z" creationid="LiarOnce" creationdate="20221211T150528Z">
+        <seg>支持的文件 (*.png*.jpg*.gif)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30937,6 +31625,14 @@ Address:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>客户端支持TYPE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tab Name:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150229Z" creationid="LiarOnce" creationdate="20221211T150229Z">
+        <seg>选项卡名称：</seg>
       </tuv>
     </tu>
     <tu>
@@ -42411,6 +43107,14 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Variable Manager</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150234Z" creationid="LiarOnce" creationdate="20221211T150234Z">
+        <seg>变量管理器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Variable Manager Operation</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -42641,8 +43345,8 @@ ID: net.netacad.cisco.autoIP
       <tuv lang="en-US">
         <seg>Violet</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>紫</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150150Z">
+        <seg>Violet</seg>
       </tuv>
     </tu>
     <tu>
@@ -43066,6 +43770,14 @@ button.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Welcome</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150232Z" creationid="LiarOnce" creationdate="20221211T150232Z">
+        <seg>欢迎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Welcome to the Activity Wizard!</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -43116,8 +43828,8 @@ button.</seg>
       <tuv lang="en-US">
         <seg>White</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>白</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150147Z">
+        <seg>White</seg>
       </tuv>
     </tu>
     <tu>
@@ -43492,8 +44204,8 @@ button.</seg>
       <tuv lang="en-US">
         <seg>Yellow</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>黄</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150149Z">
+        <seg>Yellow</seg>
       </tuv>
     </tu>
     <tu>
@@ -43951,6 +44663,14 @@ left off or adjust the filters to view previous events.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221124T115647Z" creationid="LiarOnce" creationdate="20221124T115647Z">
         <seg>about:blank</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>and ExApp Supported File</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150427Z" creationid="LiarOnce" creationdate="20221211T150427Z">
+        <seg>和 ExApp 支持的文件</seg>
       </tuv>
     </tu>
     <tu>
