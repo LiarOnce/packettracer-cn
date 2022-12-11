@@ -3344,8 +3344,8 @@ p, li { white-space: pre-wrap; }
       <tuv lang="en-US">
         <seg>&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=" font-size:14pt;"&gt;If you want to log out, use File -&amp;gt; Exit and Logout&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221124T114414Z" creationid="LiarOnce" creationdate="20221124T114414Z">
-        <seg>&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=" font-size:14pt;"&gt;If you want to log out, use File -&amp;gt; Exit and Logout&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154221Z" creationid="LiarOnce" creationdate="20221124T114414Z">
+        <seg>&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=" font-size:14pt;"&gt;如果要注销，请选择文件 -&amp;gt 退出并注销&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
