@@ -586,6 +586,14 @@ Range: 256-2346)</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(deprecated) Static Routes</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T160008Z" creationid="LiarOnce" creationdate="20221211T160008Z">
+        <seg>(不推荐使用) 静态路由</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(edit)</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -5672,6 +5680,22 @@ Access:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>问答网络</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Answer Tree</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155948Z" creationid="LiarOnce" creationdate="20221211T155948Z">
+        <seg>应答树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Answer Tree Filter</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155950Z" creationid="LiarOnce" creationdate="20221211T155950Z">
+        <seg>应答树过滤器</seg>
       </tuv>
     </tu>
     <tu>
@@ -12155,6 +12179,14 @@ Time</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>加密:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>End Device</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T160000Z" creationid="LiarOnce" creationdate="20221211T160000Z">
+        <seg>终端设备</seg>
       </tuv>
     </tu>
     <tu>
@@ -30374,6 +30406,14 @@ Num</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>仅显示已检查项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show Default</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155958Z" creationid="LiarOnce" creationdate="20221211T155958Z">
+        <seg>显示默认设置</seg>
       </tuv>
     </tu>
     <tu>
