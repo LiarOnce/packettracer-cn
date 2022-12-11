@@ -16462,8 +16462,8 @@ Configuration</seg>
       <tuv lang="en-US">
         <seg>If this information is not present, its value should be set to the OBJECT IDENTIFIER { 0 0 }, which is a syntactically valid object identifier, and any conformant implementation of ASN.1 and BER must be able to generate and recognize this value.</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>如果此信息不存在，则其值应设置为对象标识符&lt;x0/&gt;，该对象标识符是一个语句构成有效的对象标识符，而且ASN.1和BER的任何一致性实现必须能够生成并识别该值。</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T152000Z">
+        <seg>如果此信息不存在，则其值应设置为对象标识符 { 0 0 }，该对象标识符是一个语句构成有效的对象标识符，而且ASN.1和BER的任何一致性实现必须能够生成并识别该值。</seg>
       </tuv>
     </tu>
     <tu>
