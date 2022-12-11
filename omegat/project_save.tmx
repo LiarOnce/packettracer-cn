@@ -4863,6 +4863,14 @@ Router</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add Scoring Rule</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155114Z" creationid="LiarOnce" creationdate="20221211T155114Z">
+        <seg>添加评分规则</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add Script Module</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -4891,6 +4899,14 @@ Router</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>添加简单的PDU (P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add WPF</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155104Z" creationid="LiarOnce" creationdate="20221211T155104Z">
+        <seg>添加WPF</seg>
       </tuv>
     </tu>
     <tu>
@@ -5896,6 +5912,14 @@ Access:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>评估树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Assessment Tree Table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155054Z" creationid="LiarOnce" creationdate="20221211T155054Z">
+        <seg>考核树表</seg>
       </tuv>
     </tu>
     <tu>
@@ -7556,6 +7580,14 @@ Password</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Check Activity</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154811Z" creationid="LiarOnce" creationdate="20221211T154811Z">
+        <seg>检查活动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Check Answers</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -7622,8 +7654,8 @@ Password</seg>
       <tuv lang="en-US">
         <seg>Cisco</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221124T112846Z" creationid="LiarOnce" creationdate="20221124T112846Z">
-        <seg>Cisco</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155718Z" creationid="LiarOnce" creationdate="20221124T112846Z">
+        <seg>LiarOnce</seg>
       </tuv>
     </tu>
     <tu>
@@ -8020,6 +8052,22 @@ Password</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Code Testing</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154938Z" creationid="LiarOnce" creationdate="20221211T154938Z">
+        <seg>代码测试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Code Testing table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155056Z" creationid="LiarOnce" creationdate="20221211T155056Z">
+        <seg>代码测试台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Codes</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -8134,6 +8182,14 @@ Prompt</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Complete Feedback</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155120Z" creationid="LiarOnce" creationdate="20221211T155120Z">
+        <seg>完整反馈</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Completed:</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -8210,6 +8266,14 @@ Prompt</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>计算机1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Condition</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154939Z" creationid="LiarOnce" creationdate="20221211T154939Z">
+        <seg>条件</seg>
       </tuv>
     </tu>
     <tu>
@@ -8446,6 +8510,14 @@ Prompt</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Confirm Password</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155143Z" creationid="LiarOnce" creationdate="20221211T155143Z">
+        <seg>确认密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Confirm Password:</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -8638,6 +8710,14 @@ Prompt</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Connectivity Test table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155055Z" creationid="LiarOnce" creationdate="20221211T155055Z">
+        <seg>连通性测试表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Connectivity Tests</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -8738,6 +8818,14 @@ Prompt</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150711Z" creationid="LiarOnce" creationdate="20221211T150711Z">
         <seg>上下文帮助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Converge the answer network if necessary.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155051Z" creationid="LiarOnce" creationdate="20221211T155051Z">
+        <seg>如有必要，融合答案网络。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10439,10 +10527,26 @@ Time</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Delete Page</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155044Z" creationid="LiarOnce" creationdate="20221211T155044Z">
+        <seg>删除页面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Delete Scenario and All PDUs</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>删除场景和所有PDU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Delete Scoring Rule</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155115Z" creationid="LiarOnce" creationdate="20221211T155115Z">
+        <seg>删除评分规则</seg>
       </tuv>
     </tu>
     <tu>
@@ -10475,6 +10579,14 @@ Time</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>删除工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Delete WPF</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155105Z" creationid="LiarOnce" creationdate="20221211T155105Z">
+        <seg>删除WPF</seg>
       </tuv>
     </tu>
     <tu>
@@ -11751,10 +11863,26 @@ Time</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Edit Scoring Rule</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155114Z" creationid="LiarOnce" creationdate="20221211T155114Z">
+        <seg>编辑评分规则</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Edit Set</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>编辑设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Edit WPF</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155103Z" creationid="LiarOnce" creationdate="20221211T155103Z">
+        <seg>编辑WPF</seg>
       </tuv>
     </tu>
     <tu>
@@ -13547,6 +13675,16 @@ Port</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fill in the variable Name
+2.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154948Z" creationid="LiarOnce" creationdate="20221211T154948Z">
+        <seg>填写变量名
+2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Filter</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -13727,6 +13865,14 @@ Port</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>为确保评分准确，初始网络中的设备显示名必须与问答网络中的名称相一致。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For accurate scoring, device display names in the initial network must match the ones in the answer network.3) Put constraints on the user's ability to use certain features during the activity.4) Write a clear set of instructions for the activity.5) Password-protect the activity to prevent unauthorized changes to activity parameters.6) Save the activity.Please refer to the Activity Wizard help files for more detailed information.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154826Z" creationid="LiarOnce" creationdate="20221211T154826Z">
+        <seg>为了准确评分，初始网络中的设备显示名称必须与应答网络中的设备显示名称匹配。3)限制用户在活动期间使用某些功能的能力。4)为活动编写一组清晰的说明。5)密码保护活动以防止未经授权更改活动参数。6)保存活动。有关详细信息，请参阅活动向导帮助文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15273,6 +15419,14 @@ Address</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hours</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155122Z" creationid="LiarOnce" creationdate="20221211T155122Z">
+        <seg>小时</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How does this application start?</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -15285,6 +15439,16 @@ Address</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>此脚本模块如何启动？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How to create a variable:
+1.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154946Z" creationid="LiarOnce" creationdate="20221211T154946Z">
+        <seg>如何创建变量：
+1.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15540,6 +15704,14 @@ Configuration</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IP Address Pools table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155032Z" creationid="LiarOnce" creationdate="20221211T155032Z">
+        <seg>IP地址池表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IP Address Range</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -15576,6 +15748,14 @@ Configuration</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>IP地址变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IP Address Variables table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155036Z" creationid="LiarOnce" creationdate="20221211T155036Z">
+        <seg>IP地址变量表</seg>
       </tuv>
     </tu>
     <tu>
@@ -17129,6 +17309,14 @@ and all previous settings will be erased.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>初始网络设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Initial Network Setup tree</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155139Z" creationid="LiarOnce" creationdate="20221211T155139Z">
+        <seg>初始网络设置树</seg>
       </tuv>
     </tu>
     <tu>
@@ -19157,6 +19345,14 @@ ID</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>List of script files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155137Z" creationid="LiarOnce" creationdate="20221211T155137Z">
+        <seg>脚本文件列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>List of statements</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150724Z" creationid="LiarOnce" creationdate="20221211T150724Z">
@@ -19521,6 +19717,14 @@ ID</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T151021Z" creationid="LiarOnce" creationdate="20221211T151021Z">
         <seg>锁定/启动项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Locking / Starting Options</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155144Z" creationid="LiarOnce" creationdate="20221211T155144Z">
+        <seg>锁定/启动选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -20673,6 +20877,14 @@ of Users:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Minutes</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155123Z" creationid="LiarOnce" creationdate="20221211T155123Z">
+        <seg>分钟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Miscellaneous</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -20865,6 +21077,14 @@ of Users:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Move Down</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155108Z" creationid="LiarOnce" creationdate="20221211T155108Z">
+        <seg>下移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Move Note/Annotation</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -20885,6 +21105,46 @@ of Users:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>移动对象(Shift+M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Move Scoring rule down</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155116Z" creationid="LiarOnce" creationdate="20221211T155116Z">
+        <seg>将计分规则下移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Move Scoring rule up</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155117Z" creationid="LiarOnce" creationdate="20221211T155117Z">
+        <seg>将计分规则上移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Move Up</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155111Z" creationid="LiarOnce" creationdate="20221211T155111Z">
+        <seg>上移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Move WPF Down</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155107Z" creationid="LiarOnce" creationdate="20221211T155107Z">
+        <seg>将WPF下移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Move WPF Up</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155110Z" creationid="LiarOnce" creationdate="20221211T155110Z">
+        <seg>将WPF上移</seg>
       </tuv>
     </tu>
     <tu>
@@ -21274,6 +21534,22 @@ outbound OSI stack.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Name of index variable</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155141Z" creationid="LiarOnce" creationdate="20221211T155141Z">
+        <seg>索引变量的名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Name of set</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155140Z" creationid="LiarOnce" creationdate="20221211T155140Z">
+        <seg>集合名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Name/OID</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -21326,6 +21602,14 @@ outbound OSI stack.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>导航面板 (Shift+N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Negative values should not be used as Seeds.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154836Z" creationid="LiarOnce" creationdate="20221211T154836Z">
+        <seg>负值不应用作种子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22085,6 +22369,14 @@ Hop IP</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note: All variable positions start at 0.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154842Z" creationid="LiarOnce" creationdate="20221211T154842Z">
+        <seg>注：所有可变位置从0开始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Notify Log</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -22121,6 +22413,22 @@ Hop IP</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>数值变量池名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number Variables table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155015Z" creationid="LiarOnce" creationdate="20221211T155015Z">
+        <seg>数值变量池表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number pools table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155027Z" creationid="LiarOnce" creationdate="20221211T155006Z">
+        <seg>数值池表</seg>
       </tuv>
     </tu>
     <tu>
@@ -22377,6 +22685,14 @@ Hop IP</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>对象位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Object table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155142Z" creationid="LiarOnce" creationdate="20221211T155142Z">
+        <seg>对象表</seg>
       </tuv>
     </tu>
     <tu>
@@ -24957,6 +25273,14 @@ Local</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pools:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154848Z" creationid="LiarOnce" creationdate="20221211T154848Z">
+        <seg>地址池：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Port</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -25425,6 +25749,14 @@ Local</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>以HTML方式预览</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155049Z" creationid="LiarOnce" creationdate="20221211T155038Z">
+        <seg>上一页</seg>
       </tuv>
     </tu>
     <tu>
@@ -26529,6 +26861,14 @@ Local</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>范围: 1-65535)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Range: Positive and negative Integer numbers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154850Z" creationid="LiarOnce" creationdate="20221211T154850Z">
+        <seg>范围：正整数和负整数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28610,6 +28950,14 @@ layer's PDU to create the PDU at the next higher layer.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Scoring Rules Table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155113Z" creationid="LiarOnce" creationdate="20221211T155113Z">
+        <seg>评分规则表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Scoring the activity</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T151257Z" creationid="LiarOnce" creationdate="20221211T151257Z">
@@ -28718,6 +29066,14 @@ layer's PDU to create the PDU at the next higher layer.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>脚本项目管理器...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Script file contents</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155138Z" creationid="LiarOnce" creationdate="20221211T155138Z">
+        <seg>脚本文件内容</seg>
       </tuv>
     </tu>
     <tu>
@@ -28938,10 +29294,26 @@ layer's PDU to create the PDU at the next higher layer.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Seed Indexes Table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154958Z" creationid="LiarOnce" creationdate="20221211T154958Z">
+        <seg>种子索引表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Seed Name</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>种子名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Seed variables can be substituted for integers using [[variablename]].</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154857Z" creationid="LiarOnce" creationdate="20221211T154857Z">
+        <seg>可以使用[[variablename]]将种子变量替换为整数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29286,6 +29658,16 @@ layer's PDU to create the PDU at the next higher layer.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>选择与此导出相关的标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the associated Pool Name (the pool must be already created to show in the dropdown list)
+3.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154949Z" creationid="LiarOnce" creationdate="20221211T154949Z">
+        <seg>选择关联的池名称(池必须已创建才能显示在下拉列表中)
+3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30589,6 +30971,16 @@ Address:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Specify the Variable Type (dropdown: Random, Element Position, Seed, Entire Range)
+4.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154951Z" creationid="LiarOnce" creationdate="20221211T154951Z">
+        <seg>指定变量类型(下拉列表：随机、元素位置、种子、整个范围)
+4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Speed</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -31037,10 +31429,26 @@ Address:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>String Pools table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155030Z" creationid="LiarOnce" creationdate="20221211T155030Z">
+        <seg>字符串池表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>String Variables</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>字符串变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>String Variables table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155031Z" creationid="LiarOnce" creationdate="20221211T155031Z">
+        <seg>字符串变量表</seg>
       </tuv>
     </tu>
     <tu>
@@ -32041,6 +32449,14 @@ Address:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>测试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Test Activity</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154810Z" creationid="LiarOnce" creationdate="20221211T154810Z">
+        <seg>测试活动</seg>
       </tuv>
     </tu>
     <tu>
@@ -35337,6 +35753,14 @@ Address:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>TX(铜)版本支持虚拟局域网(VLAN)部署。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Test Value (optional) will specify the value to be used for the seed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154829Z" creationid="LiarOnce" creationdate="20221211T154829Z">
+        <seg>测试值(可选)将指定要用于种子的值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40593,6 +41017,14 @@ Address:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The typical sequence in making an activity is as follows:1) Create the answer network and set the assessment items.2) Create the initial network, which will be the user's starting point.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154822Z" creationid="LiarOnce" creationdate="20221211T154822Z">
+        <seg>进行练习的典型步骤如下：1)创建答案网络并设置评估项目。2)创建初始网络，这将是用户的起点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The untrusted port is configured to accept DHCP packets with Option-82.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -40757,6 +41189,14 @@ Address:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>从该接口发送的路由器通告的路由器生命期字段中的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The values on the Assessment Items tree come from the current answer network state.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155046Z" creationid="LiarOnce" creationdate="20221211T155046Z">
+        <seg>评估项目树上的值来自当前答案网络状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41265,6 +41705,14 @@ Address:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This overrides random selection and is only used during Test Activity mode.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154831Z" creationid="LiarOnce" creationdate="20221211T154831Z">
+        <seg>这将覆盖随机选择，并且仅在测试活动模式期间使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This port already has a MAC entry for this MAC address.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -41419,6 +41867,14 @@ stamp</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Time (ms) to forward Answer Network</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155125Z" creationid="LiarOnce" creationdate="20221211T155125Z">
+        <seg>转发应答网络的时间(毫秒)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Time (ms) to forward Answer Network:</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -41563,6 +42019,14 @@ stamp</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To Add: Fill in the required Name, Minimum and Maximum Values.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154828Z" creationid="LiarOnce" creationdate="20221211T154828Z">
+        <seg>添加：填写所需的名称、最小值和最大值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To Add: Fill in the required Name, Pool Name and Value type field
 If Value Type is Element Position, an integer value is specified in the value field
 If Value Type is Seed, a Seed variable name is used in the Value field 
@@ -41607,6 +42071,14 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</seg
 如果数值类型为种子，则在数值字段中使用种子变量名。
 编辑：双击单元格并更改数值，或重新选择下拉列表数值。
 删除：单击要删除的行中的任意位置，然后按Delete键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To Edit: Double-Click in the cell and change the value To Remove: Click anywhere in the row to be deleted and press the Delete key.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154834Z" creationid="LiarOnce" creationdate="20221211T154834Z">
+        <seg>要编辑：在单元格中双击并将值更改为删除：在要删除的行中的任意位置单击，然后按Delete键。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41987,6 +42459,14 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Triggers</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154942Z" creationid="LiarOnce" creationdate="20221211T154942Z">
+        <seg>触发器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Trunk VLANs</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -42111,6 +42591,14 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</seg
       </tuv>
       <tuv lang="zh-CN">
         <seg>类型: %1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Typical Seeds should start at 0.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154843Z" creationid="LiarOnce" creationdate="20221211T154843Z">
+        <seg>典型的种子应该从0开始。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42343,6 +42831,14 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</seg
       </tuv>
       <tuv lang="zh-CN">
         <seg>与ExApps不同，脚本模块直接在Packet Tracer中开发，无需外部开发环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock Assessment Item percent:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155136Z" creationid="LiarOnce" creationdate="20221211T155136Z">
+        <seg>解锁评估项目百分比：</seg>
       </tuv>
     </tu>
     <tu>
@@ -43315,6 +43811,14 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Valid Seed range is from 0 to 2,147,483,647.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154841Z" creationid="LiarOnce" creationdate="20221211T154841Z">
+        <seg>有效种子范围为0到2,147,483,647。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Valid hexadecimal characters are A through F and number 0 through 9.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -43451,6 +43955,30 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Variable Reference table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155037Z" creationid="LiarOnce" creationdate="20221211T155037Z">
+        <seg>变量引用表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Variable reference table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155055Z" creationid="LiarOnce" creationdate="20221211T155055Z">
+        <seg>变量引用表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Variables:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155008Z" creationid="LiarOnce" creationdate="20221211T155008Z">
+        <seg>变量：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Variance</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -43555,6 +44083,20 @@ ID: net.netacad.cisco.autoIP
 
 
 联系方式: miwang@cisco.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Version: 1.0
+ID: net.netacad.cisco.autoIP
+Author: Michael Wang
+Contact: miwang@cisco.com</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155158Z" creationid="LiarOnce" creationdate="20221211T155158Z">
+        <seg>Version: 1.0
+ID: net.netacad.cisco.autoIP
+Author: Michael Wang
+Contact: miwang@cisco.com</seg>
       </tuv>
     </tu>
     <tu>
@@ -44130,10 +44672,26 @@ button.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Welcome to the Activity Wizard!The Activity Wizard is an assessment tool that allows you to create detailed networking scenarios for other users.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154813Z" creationid="LiarOnce" creationdate="20221211T154813Z">
+        <seg>欢迎使用活动向导！活动向导是一种评估工具，允许您为其他用户创建详细的网络方案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What is the device decision in this layer?</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>设备在这一层做出了什么决策？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When Seeds are used as index values to generating variables, make sure the pool range is greater or equal to the Seed range of values.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154838Z" creationid="LiarOnce" creationdate="20221211T154838Z">
+        <seg>当种子用作生成变量的索引值时，请确保池范围大于或等于种子值范围。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44166,6 +44724,14 @@ button.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>手动输入此项时，16位加密应为10个字符，128位加密应为26个字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While they will be accepted, they will cause unpredictable results when the activity is used.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154837Z" creationid="LiarOnce" creationdate="20221211T154837Z">
+        <seg>虽然它们将被接受，但当使用活动时，它们将导致不可预测的结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44430,6 +44996,14 @@ button.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>工作产品功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Work Product Features table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155101Z" creationid="LiarOnce" creationdate="20221211T155101Z">
+        <seg>工作产品功能表</seg>
       </tuv>
     </tu>
     <tu>
@@ -45149,8 +45723,8 @@ left off or adjust the filters to view previous events.</seg>
       <tuv lang="en-US">
         <seg>http://www.cisco.com</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221124T112845Z" creationid="LiarOnce" creationdate="20221124T112845Z">
-        <seg>http://www.cisco.com</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155712Z" creationid="LiarOnce" creationdate="20221124T112845Z">
+        <seg>https://www.liaronce.com</seg>
       </tuv>
     </tu>
     <tu>
@@ -45328,6 +45902,14 @@ policy.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221124T114303Z" creationid="LiarOnce" creationdate="20221124T114303Z">
         <seg>s23-12345678</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>safec</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155149Z" creationid="LiarOnce" creationdate="20221211T155149Z">
+        <seg>safec</seg>
       </tuv>
     </tu>
     <tu>
