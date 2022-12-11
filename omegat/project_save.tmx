@@ -450,8 +450,8 @@
       <tuv lang="en-US">
         <seg>&amp;Zoom</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>&amp;缩放</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T152709Z">
+        <seg>缩放(&amp;Z)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6898,6 +6898,14 @@ View Previous Events</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CFwdAll</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153159Z" creationid="LiarOnce" creationdate="20221211T153159Z">
+        <seg>CFwdAll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CH button</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -7416,6 +7424,14 @@ Password</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>更改语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change Language -- %1</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153100Z" creationid="LiarOnce" creationdate="20221211T153100Z">
+        <seg>更改语言 -- %1</seg>
       </tuv>
     </tu>
     <tu>
@@ -11399,6 +11415,14 @@ Time</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>E&amp;xtensions</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T152646Z" creationid="LiarOnce" creationdate="20221211T152646Z">
+        <seg>扩展(&amp;X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>E-Mail:</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -14865,6 +14889,14 @@ Address</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hide Devices in Network Component Box</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153211Z" creationid="LiarOnce" creationdate="20221211T153211Z">
+        <seg>隐藏网络组件框中的设备</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hide Event List on Start</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T151038Z" creationid="LiarOnce" creationdate="20221211T151038Z">
@@ -14945,10 +14977,26 @@ Address</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hide UI</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153206Z" creationid="LiarOnce" creationdate="20221211T153206Z">
+        <seg>隐藏用户界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hide User Created Packet Window</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T151045Z" creationid="LiarOnce" creationdate="20221211T151045Z">
         <seg>隐藏用户创建的数据包窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hide Wireless Coverage Range Spinbox</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153148Z" creationid="LiarOnce" creationdate="20221211T153148Z">
+        <seg>隐藏无线覆盖范围旋转框</seg>
       </tuv>
     </tu>
     <tu>
@@ -14965,6 +15013,14 @@ Address</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>隐藏无线/蜂窝连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hide and Save PT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153157Z" creationid="LiarOnce" creationdate="20221211T153157Z">
+        <seg>隐藏并保存 PT</seg>
       </tuv>
     </tu>
     <tu>
@@ -16969,6 +17025,14 @@ and all previous settings will be erased.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Incorrect Password -- %1</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153056Z" creationid="LiarOnce" creationdate="20221211T153056Z">
+        <seg>密码不正确 -- %1</seg>
       </tuv>
     </tu>
     <tu>
@@ -19537,6 +19601,22 @@ ID</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>逻辑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Logical Mode</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T152713Z" creationid="LiarOnce" creationdate="20221211T152713Z">
+        <seg>逻辑模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Logical Mode (Shift+L)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T152712Z" creationid="LiarOnce" creationdate="20221211T152712Z">
+        <seg>逻辑模式(Shift+L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24037,6 +24117,22 @@ Local</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Physical Mode</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T152716Z" creationid="LiarOnce" creationdate="20221211T152716Z">
+        <seg>物理模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Physical Mode (Shift+P)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T152715Z" creationid="LiarOnce" creationdate="20221211T152715Z">
+        <seg>物理模式(Shift+P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Physical Properties</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -27346,6 +27442,14 @@ layer's PDU to create the PDU at the next higher layer.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Restart %1</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153108Z" creationid="LiarOnce" creationdate="20221211T153108Z">
+        <seg>重启 %1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Restore Configuration</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -30028,10 +30132,34 @@ Num</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show Wireless Boundary</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153118Z" creationid="LiarOnce" creationdate="20221211T153118Z">
+        <seg>显示无线边界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show Wireless Color Gradient</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153122Z" creationid="LiarOnce" creationdate="20221211T153122Z">
+        <seg>显示无线颜色渐变</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show Workspace List</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150853Z" creationid="LiarOnce" creationdate="20221211T150853Z">
         <seg>显示工作区列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show/Hide</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T153052Z" creationid="LiarOnce" creationdate="20221211T153052Z">
+        <seg>显示/隐藏</seg>
       </tuv>
     </tu>
     <tu>
@@ -42535,6 +42663,14 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</seg
       </tuv>
       <tuv lang="zh-CN">
         <seg>用户账户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>User Created PDU toggle</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T152730Z" creationid="LiarOnce" creationdate="20221211T152730Z">
+        <seg>用户创建的PDU切换</seg>
       </tuv>
     </tu>
     <tu>
