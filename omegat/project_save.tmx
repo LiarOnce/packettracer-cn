@@ -488,12 +488,28 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Default: 100, Milliseconds, Range: 1-65535)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014021Z" creationid="LiarOnce" creationdate="20221214T014021Z">
+        <seg>(默认：100，毫秒，范围：1-65535)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Default: 2346, 
 Range: 256-2346)</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>(默认: 2346, 
 范围: 256-2346)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Default: 2346, Range: 256-2346)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014031Z" creationid="LiarOnce" creationdate="20221214T014031Z">
+        <seg>(默认：2346，范围：256-2346)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3358,6 +3374,14 @@ p, li { white-space: pre-wrap; }
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;- Physical To Logical</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014131Z" creationid="LiarOnce" creationdate="20221214T014131Z">
+        <seg>&lt;- 从物理到逻辑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;-&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221124T114723Z" creationid="LiarOnce" creationdate="20221124T114723Z">
@@ -3946,6 +3970,22 @@ Setting&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>&lt;p align="right"&gt;基于URL地址的网站拦截&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>= Please enter description text =</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014915Z" creationid="LiarOnce" creationdate="20221214T014915Z">
+        <seg>= 请输入描述文本 =</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014154Z" creationid="LiarOnce" creationdate="20221214T014154Z">
+        <seg>&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5015,6 +5055,14 @@ Router</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adding Modules: Drag the module to an available slot on the device.Removing Modules: Drag the module from the device to the module list.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014738Z" creationid="LiarOnce" creationdate="20221214T014738Z">
+        <seg>添加模块：将模块拖至设备上的可用插槽。移除模块：将模块从设备拖至模块列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additional Info:</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -5124,6 +5172,14 @@ PDU to create the PDU at the next lower layer.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>高级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Advanced Wireless</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014007Z" creationid="LiarOnce" creationdate="20221214T014007Z">
+        <seg>高级无线</seg>
       </tuv>
     </tu>
     <tu>
@@ -5824,6 +5880,14 @@ Access:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>用于异步/同步支持的应用包括: 低速WAN聚合(高达128Kbps)、拨号调制解调器支持、到其他设备管理端口的异步或同步连接，以及传统协议(如Bi-sync和SDLC)的传输。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Applied PCs</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013921Z" creationid="LiarOnce" creationdate="20221214T013921Z">
+        <seg>应用PC</seg>
       </tuv>
     </tu>
     <tu>
@@ -6544,6 +6608,14 @@ Destination: %3</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Beamforming:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013952Z" creationid="LiarOnce" creationdate="20221214T013952Z">
+        <seg>波形：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Below are the results of your connectivity tests:</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -6584,6 +6656,14 @@ Destination: %3</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Blocked Applications</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013925Z" creationid="LiarOnce" creationdate="20221214T013925Z">
+        <seg>被阻止的应用程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Blocked List</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -6604,6 +6684,14 @@ Destination: %3</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150145Z">
         <seg>Blue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bluetooth</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014729Z" creationid="LiarOnce" creationdate="20221214T014729Z">
+        <seg>蓝牙</seg>
       </tuv>
     </tu>
     <tu>
@@ -6752,6 +6840,14 @@ Destination: %3</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Broadcast storm control multiplier</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014103Z" creationid="LiarOnce" creationdate="20221214T014103Z">
+        <seg>广播风暴控制倍增器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Browse</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -6846,6 +6942,14 @@ View Previous Events</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>大楼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Built-in</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014726Z" creationid="LiarOnce" creationdate="20221214T014726Z">
+        <seg>内置</seg>
       </tuv>
     </tu>
     <tu>
@@ -6958,6 +7062,22 @@ View Previous Events</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>CBAC值超出范围 [0.1-100.0]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CBaseInfoDialog</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014907Z" creationid="LiarOnce" creationdate="20221214T014907Z">
+        <seg>CBaseInfoDialog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CBaseInstructionDialog</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014916Z" creationid="LiarOnce" creationdate="20221214T014916Z">
+        <seg>CBaseInstructionDialog</seg>
       </tuv>
     </tu>
     <tu>
@@ -8036,10 +8156,26 @@ Password</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Client&lt;x1/&gt;Name</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014849Z" creationid="LiarOnce" creationdate="20221214T014849Z">
+        <seg>客户端&lt;x1/&gt;名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clientless Settings</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>无客户端设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clients Already Reserved</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014842Z" creationid="LiarOnce" creationdate="20221214T014842Z">
+        <seg>已预订的客户端</seg>
       </tuv>
     </tu>
     <tu>
@@ -8234,6 +8370,14 @@ Prompt</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>命令提示符只读</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CommandPrompt</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014756Z" creationid="LiarOnce" creationdate="20221214T014756Z">
+        <seg>CommandPrompt</seg>
       </tuv>
     </tu>
     <tu>
@@ -8958,6 +9102,22 @@ Prompt</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Copy Background Images</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014122Z" creationid="LiarOnce" creationdate="20221214T014122Z">
+        <seg>复制背景图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy Cluster Icons</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014123Z" creationid="LiarOnce" creationdate="20221214T014123Z">
+        <seg>复制集群图标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Copy Config to Startup Config</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -9138,6 +9298,14 @@ Prompt</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>创建新集群 (Shift+U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create New Container</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014125Z" creationid="LiarOnce" creationdate="20221214T014125Z">
+        <seg>创建新容器</seg>
       </tuv>
     </tu>
     <tu>
@@ -9330,6 +9498,14 @@ Prompt</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221124T113557Z" creationid="LiarOnce" creationdate="20221124T113557Z">
         <seg>Ctrl+F4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ctrl+F6 to exit CLI focus</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014753Z" creationid="LiarOnce" creationdate="20221214T014753Z">
+        <seg>按Ctrl+F6退出CLI焦点</seg>
       </tuv>
     </tu>
     <tu>
@@ -10927,6 +11103,14 @@ Time</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Device Description</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014722Z" creationid="LiarOnce" creationdate="20221214T014722Z">
+        <seg>设备描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Device Model</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -10955,6 +11139,14 @@ Time</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>设备列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Device Template</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014721Z" creationid="LiarOnce" creationdate="20221214T014721Z">
+        <seg>设备模板</seg>
       </tuv>
     </tu>
     <tu>
@@ -12271,6 +12463,14 @@ Time</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enable WiFi:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013944Z" creationid="LiarOnce" creationdate="20221214T013944Z">
+        <seg>启用WiFi：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enable wiki page export</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -13523,6 +13723,14 @@ Port</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Factory Defaults</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014854Z" creationid="LiarOnce" creationdate="20221214T014854Z">
+        <seg>出厂默认设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fail</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -14289,6 +14497,14 @@ Threshold:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fragmentation Threshold:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014029Z" creationid="LiarOnce" creationdate="20221214T014029Z">
+        <seg>分片阈值：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fragmentation is not needed.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -14461,6 +14677,14 @@ Threshold:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>GRE报头</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>GUI</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014141Z" creationid="LiarOnce" creationdate="20221214T014141Z">
+        <seg>GUI</seg>
       </tuv>
     </tu>
     <tu>
@@ -14953,6 +15177,14 @@ Threshold:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HTML</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014139Z" creationid="LiarOnce" creationdate="20221214T014139Z">
+        <seg>HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HTML Code:</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -15061,6 +15293,14 @@ Threshold:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>半双工</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Half Open Session Multiplier</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014040Z" creationid="LiarOnce" creationdate="20221214T014040Z">
+        <seg>半开放会话倍数</seg>
       </tuv>
     </tu>
     <tu>
@@ -16280,6 +16520,14 @@ Configuration</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IP&lt;x1/&gt;Address</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014850Z" creationid="LiarOnce" creationdate="20221214T014850Z">
+        <seg>IP&lt;x1/&gt;地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IPC</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221124T113317Z" creationid="LiarOnce" creationdate="20221124T113317Z">
@@ -16308,6 +16556,14 @@ Configuration</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>IPC选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IPConfiguration</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014801Z" creationid="LiarOnce" creationdate="20221214T014801Z">
+        <seg>IPConfiguration</seg>
       </tuv>
     </tu>
     <tu>
@@ -17879,6 +18135,14 @@ Port</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Internet Filter</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014857Z" creationid="LiarOnce" creationdate="20221214T014857Z">
+        <seg>互联网过滤器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Internet IP Address:</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -17899,6 +18163,14 @@ Port</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>Internet设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Internet Setup</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013920Z" creationid="LiarOnce" creationdate="20221214T013920Z">
+        <seg>互联网设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -18395,6 +18667,14 @@ Port</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221124T115419Z" creationid="LiarOnce" creationdate="20221124T115419Z">
         <seg>IoT TCP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IoX IDE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014823Z" creationid="LiarOnce" creationdate="20221214T014823Z">
+        <seg>IoX IDE</seg>
       </tuv>
     </tu>
     <tu>
@@ -20097,6 +20377,14 @@ ID</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Logical To Physical -&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014134Z" creationid="LiarOnce" creationdate="20221214T014127Z">
+        <seg>从逻辑到物理 -&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Logical View</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150902Z" creationid="LiarOnce" creationdate="20221211T150902Z">
@@ -20651,6 +20939,14 @@ Address</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MAC&lt;x1/&gt;Address</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014851Z" creationid="LiarOnce" creationdate="20221214T014851Z">
+        <seg>MAC&lt;x1/&gt;地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MAIL BROWSER</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -20940,6 +21236,14 @@ Address</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Manually Adding Client</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014846Z" creationid="LiarOnce" creationdate="20221214T014846Z">
+        <seg>手动添加客户端</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Map</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -21052,6 +21356,14 @@ Address</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Maximum Number of TCP connections</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014042Z" creationid="LiarOnce" creationdate="20221214T014042Z">
+        <seg>最大的TCP连接数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Maximum Retransmission Timeout in Milliseconds:</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -21073,6 +21385,22 @@ of Users:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>最大用户数:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Maximum number of opened TCP Sessions</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014043Z" creationid="LiarOnce" creationdate="20221214T014043Z">
+        <seg>打开的最大TCP会话数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Maximum retransmission timeout in milliseconds</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014049Z" creationid="LiarOnce" creationdate="20221214T014049Z">
+        <seg>最大重传超时时间(毫秒)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22007,6 +22335,14 @@ ID</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Netflow Collector</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014826Z" creationid="LiarOnce" creationdate="20221214T014826Z">
+        <seg>NetFlow收集器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Netflow Collector does not recognize the packet.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -22075,6 +22411,14 @@ ID</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>网络适配器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Network Adapter 2</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014728Z" creationid="LiarOnce" creationdate="20221214T014728Z">
+        <seg>网络适配器2</seg>
       </tuv>
     </tu>
     <tu>
@@ -23329,6 +23673,14 @@ Hop IP</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the Bluetooth viewer.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014817Z" creationid="LiarOnce" creationdate="20221214T014817Z">
+        <seg>打开蓝牙查看器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the Email application.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -23369,6 +23721,14 @@ Hop IP</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the IoX IDE application.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014813Z" creationid="LiarOnce" creationdate="20221214T014813Z">
+        <seg>打开IoX IDE应用程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the Netflow Collector application.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -23393,6 +23753,14 @@ Hop IP</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the PPPoE dialer application.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014828Z" creationid="LiarOnce" creationdate="20221214T014828Z">
+        <seg>打开PPPoE拨号程序应用程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the SNMP MIB Browser application.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -23409,6 +23777,14 @@ Hop IP</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the Telnet / SSH Client application.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014815Z" creationid="LiarOnce" creationdate="20221214T014815Z">
+        <seg>打开Telnet/SSH客户端应用程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the Text Editor application.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -23421,6 +23797,14 @@ Hop IP</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>打开流量生成器应用程序.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the VPN client application.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014805Z" creationid="LiarOnce" creationdate="20221214T014805Z">
+        <seg>打开VPN客户端应用程序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24837,6 +25221,14 @@ Local</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>选择另一个包名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ping Test</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013939Z" creationid="LiarOnce" creationdate="20221214T013939Z">
+        <seg>Ping测试</seg>
       </tuv>
     </tu>
     <tu>
@@ -26625,6 +27017,14 @@ Local</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>QoS Queue size</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014059Z" creationid="LiarOnce" creationdate="20221214T014059Z">
+        <seg>QoS -队列大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>QoS Queues</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -28342,6 +28742,14 @@ layer's PDU to create the PDU at the next higher layer.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Router enableRouter# configure terminalRouter(config)#</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014747Z" creationid="LiarOnce" creationdate="20221214T014747Z">
+        <seg>Router enableRouter# configure terminalRouter(config)#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Routers</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -29318,6 +29726,14 @@ layer's PDU to create the PDU at the next higher layer.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Schedule</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013923Z" creationid="LiarOnce" creationdate="20221214T013923Z">
+        <seg>进度表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Score</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -29770,6 +30186,14 @@ layer's PDU to create the PDU at the next higher layer.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>选择应用:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select Clients from DHCP Tables</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014840Z" creationid="LiarOnce" creationdate="20221214T014840Z">
+        <seg>从DHCP表中选择客户端</seg>
       </tuv>
     </tu>
     <tu>
@@ -30714,6 +31138,14 @@ Num</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Show</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014730Z" creationid="LiarOnce" creationdate="20221214T014730Z">
+        <seg>显示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show Active Apps</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -30822,6 +31254,14 @@ Num</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>显示事件列表 (Alt+I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show Incorrect Items</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014112Z" creationid="LiarOnce" creationdate="20221214T014112Z">
+        <seg>显示不正确的项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -32801,6 +33241,14 @@ Address:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221124T115425Z" creationid="LiarOnce" creationdate="20221124T115425Z">
         <seg>Telnet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Telnet / SSH Client</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014816Z" creationid="LiarOnce" creationdate="20221214T014816Z">
+        <seg>Telnet/SSH客户端</seg>
       </tuv>
     </tu>
     <tu>
@@ -40421,6 +40869,22 @@ Address:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The publisher certificate of this file has expired or is blocked.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013913Z" creationid="LiarOnce" creationdate="20221214T013913Z">
+        <seg>此文件的发行者证书已过期或被阻止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The publisher certificate of this file is about to expire.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013912Z" creationid="LiarOnce" creationdate="20221214T013912Z">
+        <seg>此文件的发行者证书即将过期。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The publisher of this file is in the Untrusted Publishers list.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -41769,6 +42233,14 @@ Address:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These settings are not available in this connection mode.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013926Z" creationid="LiarOnce" creationdate="20221214T013926Z">
+        <seg>这些设置在此连接模式下不可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They can be treated as files or as a hash table.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -42571,6 +43043,14 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To Sort By</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014831Z" creationid="LiarOnce" creationdate="20221214T014831Z">
+        <seg>按以下条件进行排序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To This MAC Address</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -42831,6 +43311,14 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</seg
       </tuv>
       <tuv lang="zh-CN">
         <seg>Trace完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Traceroute Test</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013940Z" creationid="LiarOnce" creationdate="20221214T013940Z">
+        <seg>跟踪路由测试</seg>
       </tuv>
     </tu>
     <tu>
@@ -45056,6 +45544,14 @@ button.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Warning: Upgrading firmware may take a few minutes, please don't turn off the  power or press the reset button.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014900Z" creationid="LiarOnce" creationdate="20221214T014900Z">
+        <seg>警告：升级固件可能需要几分钟时间，请不要关闭电源或按下重置按钮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Water</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -45160,6 +45656,14 @@ button.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Web Filter</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014858Z" creationid="LiarOnce" creationdate="20221214T014858Z">
+        <seg>网页过滤器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Web Utility Access via Wireless:</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -45172,6 +45676,22 @@ button.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>Web实用程序访问:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Website Blocking by Keyword</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013925Z" creationid="LiarOnce" creationdate="20221214T013925Z">
+        <seg>按关键字屏蔽网站</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Website Blocking by URL Address</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013924Z" creationid="LiarOnce" creationdate="20221214T013924Z">
+        <seg>按URL地址屏蔽网站</seg>
       </tuv>
     </tu>
     <tu>
@@ -45512,6 +46032,14 @@ button.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wireless-NBroadband Router</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014832Z" creationid="LiarOnce" creationdate="20221214T014832Z">
+        <seg>Wireless-NBroadband Router</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wiring Closet</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -45781,6 +46309,14 @@ left off or adjust the filters to view previous events.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013541Z" creationid="LiarOnce" creationdate="20221214T013541Z">
         <seg>您需要在下一次会话中再次输入登录凭据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your Current Options</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014905Z" creationid="LiarOnce" creationdate="20221214T014905Z">
+        <seg>您当前的选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -46217,6 +46753,14 @@ left off or adjust the filters to view previous events.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>close</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014901Z" creationid="LiarOnce" creationdate="20221214T014901Z">
+        <seg>close</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>command log dock window</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -46426,6 +46970,14 @@ policy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>only three applications can be blocked per policy.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013934Z" creationid="LiarOnce" creationdate="20221214T013934Z">
+        <seg>每个策略只能阻止三个应用程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>php .css .js</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221124T115104Z" creationid="LiarOnce" creationdate="20221124T115104Z">
@@ -46534,6 +47086,14 @@ policy.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>测试活动(不应在此)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>text</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014116Z" creationid="LiarOnce" creationdate="20221214T014116Z">
+        <seg>文本</seg>
       </tuv>
     </tu>
     <tu>
