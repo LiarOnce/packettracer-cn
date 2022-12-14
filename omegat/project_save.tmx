@@ -24,6 +24,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>%1 (%2) wants to pair with %3 on Bluetooth.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013902Z" creationid="LiarOnce" creationdate="20221214T013902Z">
+        <seg>%1(%2)希望在蓝牙上与%3配对。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>%1 &gt;&gt; %2</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221124T114939Z" creationid="LiarOnce" creationdate="20221124T114939Z">
@@ -60,6 +68,14 @@
       </tuv>
       <tuv lang="zh-CN">
         <seg>%1没有功能端口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>%1 is locked by author's design for this activity.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013758Z" creationid="LiarOnce" creationdate="20221214T013758Z">
+        <seg>%1已由作者为此活动的设计锁定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -566,6 +582,14 @@ Range: 256-2346)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221124T113615Z" creationid="LiarOnce" creationdate="20221124T113615Z">
         <seg>(Shift+G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(These devices are only available in Physical View)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013824Z" creationid="LiarOnce" creationdate="20221214T013824Z">
+        <seg>(这些设备仅在物理视图中可用)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4767,6 +4791,14 @@ Router</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Activity Finished -- %1</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013816Z" creationid="LiarOnce" creationdate="20221214T013816Z">
+        <seg>活动已完成 -- %1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Activity Instructions</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -5636,6 +5668,14 @@ Access:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Annotate your workspace with shapes and colors.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013550Z" creationid="LiarOnce" creationdate="20221214T013550Z">
+        <seg>用形状和颜色注释您的工作区。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Announce Interval</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -5952,6 +5992,14 @@ Access:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>指定IP地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Associate Logical Workspace clusters to Physical Workspace containers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013530Z" creationid="LiarOnce" creationdate="20221214T013530Z">
+        <seg>将逻辑工作区集群与物理工作区容器相关联。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6556,6 +6604,14 @@ Destination: %3</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150145Z">
         <seg>Blue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bluetooth Pairing</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013904Z" creationid="LiarOnce" creationdate="20221214T013904Z">
+        <seg>蓝牙配对</seg>
       </tuv>
     </tu>
     <tu>
@@ -7544,6 +7600,14 @@ Password</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>更改用户界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change algorithm behavior to allow the simulation to achieve certain algorithm behavior easier.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013545Z" creationid="LiarOnce" creationdate="20221214T013545Z">
+        <seg>更改算法行为以允许模拟更容易地实现某些算法行为。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9166,6 +9230,14 @@ Prompt</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create a single offline PKT file from all attached multiuser peers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013602Z" creationid="LiarOnce" creationdate="20221214T013602Z">
+        <seg>从所有连接的多用户对等项创建单个脱机PKT文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create link</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -9178,6 +9250,14 @@ Prompt</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>创建多个位置集并将其追加到列表中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create your own application wide script module.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013608Z" creationid="LiarOnce" creationdate="20221214T013608Z">
+        <seg>创建您自己的应用程序范围脚本模块。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9582,6 +9662,14 @@ Prompt</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Customize</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013502Z" creationid="LiarOnce" creationdate="20221214T013502Z">
+        <seg>自定义</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Customize
 Icon in
 Logical View</seg>
@@ -9638,6 +9726,30 @@ Physical View</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>自定义用户体验</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Customize any existing device model with pre-installed modules and IOS versions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013434Z" creationid="LiarOnce" creationdate="20221214T013434Z">
+        <seg>使用预装模块和IOS版本自定义任何现有设备型号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CustomizeIcon in Physical View</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013453Z" creationid="LiarOnce" creationdate="20221214T013453Z">
+        <seg>物理视图中的自定义图标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CustomizeIcon inLogical View</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013457Z" creationid="LiarOnce" creationdate="20221214T013457Z">
+        <seg>逻辑视图中的自定义图标</seg>
       </tuv>
     </tu>
     <tu>
@@ -9769,6 +9881,14 @@ Server:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>DHCP服务器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DHCP Server (FastEthernet0)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013236Z" creationid="LiarOnce" creationdate="20221214T013236Z">
+        <seg>DHCP服务器(FastEthernet0)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10337,6 +10457,22 @@ Server:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>数据被立即发送，因为所有未处理的数据均已得到确认，或数据是全尺寸的分段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Database Error -- %1</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013831Z" creationid="LiarOnce" creationdate="20221214T013831Z">
+        <seg>数据库错误 -- %1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Database Error.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013909Z" creationid="LiarOnce" creationdate="20221214T013909Z">
+        <seg>数据库错误。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11143,6 +11279,22 @@ Time</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Display all opened listening TCP/IP ports used by Packet Tracer.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013557Z" creationid="LiarOnce" creationdate="20221214T013557Z">
+        <seg>显示Packet Tracer使用的所有打开的侦听TCP/IP端口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display the Packet Tracer Inter-Process Communication logs.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013606Z" creationid="LiarOnce" creationdate="20221214T013606Z">
+        <seg>显示Packet Tracer进程间通信日志。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Distance</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -11255,6 +11407,14 @@ Time</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do you want to pair?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013902Z" creationid="LiarOnce" creationdate="20221214T013902Z">
+        <seg>你想配对吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Do you want to replace your current scripts with the defaults?</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -11291,6 +11451,14 @@ Time</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>您要取消对 %1 的组件聚成集群的操作吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you want to update them?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013906Z" creationid="LiarOnce" creationdate="20221214T013906Z">
+        <seg>是否要更新它们？</seg>
       </tuv>
     </tu>
     <tu>
@@ -11907,6 +12075,14 @@ Time</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T155103Z" creationid="LiarOnce" creationdate="20221211T155103Z">
         <seg>编辑WPF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Edit the file wide singleton script module that is always running.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013610Z" creationid="LiarOnce" creationdate="20221214T013610Z">
+        <seg>编辑始终运行的文件范围的单例脚本模块。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12623,6 +12799,14 @@ Time</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Erase all progress and start your PKA Activity from the beginning.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013839Z" creationid="LiarOnce" creationdate="20221214T013839Z">
+        <seg>抹去所有的进展，从头开始你的PKA活动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Erase the startup-config file?</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -12835,6 +13019,14 @@ Time</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>退出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exit -- %1</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013808Z" creationid="LiarOnce" creationdate="20221214T013808Z">
+        <seg>退出 -- %1</seg>
       </tuv>
     </tu>
     <tu>
@@ -13141,6 +13333,14 @@ Time</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>将此脚本模块的脚本和接口导出到一个.ts翻译文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export this file as a common cartridge package.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013855Z" creationid="LiarOnce" creationdate="20221214T013837Z">
+        <seg>将此文件导出为Common Cartridge包。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14473,6 +14673,22 @@ Threshold:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to realtime mode where the simulation will run at almost real life speed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013625Z" creationid="LiarOnce" creationdate="20221214T013625Z">
+        <seg>转到实时模式，在该模式下模拟将以几乎真实的速度运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to simulation mode where the simulation time will freeze and you can control the time and view individual packets as they traverse the network.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013622Z" creationid="LiarOnce" creationdate="20221214T013622Z">
+        <seg>进入模拟模式，模拟时间将冻结，您可以控制时间，并在各个数据包通过网络时查看它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gravity</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -15015,6 +15231,14 @@ Address</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>帮助地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here you will learn how to effectively use %5 and register for a netacad.com ID which in turn will allow you to register your copy of %6 for no cost and eliminate the save restriction in this copy of %7.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013716Z" creationid="LiarOnce" creationdate="20221214T013716Z">
+        <seg>在这里，您将学习如何有效地使用%5并注册netacad.com ID，这将允许您免费注册您的%6副本，并消除此%7副本中的保存限制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17581,6 +17805,14 @@ Local</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Interface Locked -- %1</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013803Z" creationid="LiarOnce" creationdate="20221214T013803Z">
+        <seg>接口已锁定 -- %1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Interface Locking</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -18235,6 +18467,14 @@ Port</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>是否为ICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Is not allowed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013757Z" creationid="LiarOnce" creationdate="20221214T013757Z">
+        <seg>是不允许的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20600,6 +20840,78 @@ Address</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>管理设备对话框</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manage Packet Tracer Inter-Process Communication options.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013605Z" creationid="LiarOnce" creationdate="20221214T013605Z">
+        <seg>管理Packet Tracer进程间通信选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manage application wide scripts running within Packet Tracer.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013607Z" creationid="LiarOnce" creationdate="20221214T013607Z">
+        <seg>管理在Packet Tracer中运行的应用程序范围的脚本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manage custom HTML based GUI interfaces for specific device models application wide.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013619Z" creationid="LiarOnce" creationdate="20221214T013619Z">
+        <seg>为应用程序范围内的特定设备型号管理基于HTML的自定义图形用户界面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manage custom HTML based GUI interfaces for specific device models to be applied only to this file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013620Z" creationid="LiarOnce" creationdate="20221214T013620Z">
+        <seg>管理仅应用于此文件的特定设备型号的基于HTML的自定义图形用户界面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manage external applications associated with Packet Tracer.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013604Z" creationid="LiarOnce" creationdate="20221214T013604Z">
+        <seg>管理与Packet Tracer关联的外部应用程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manage multiuser behavior options.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013600Z" creationid="LiarOnce" creationdate="20221214T013600Z">
+        <seg>管理多用户行为选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manage multiuser listening server options.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013558Z" creationid="LiarOnce" creationdate="20221214T013558Z">
+        <seg>管理多用户侦听服务器选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manage script modules running on individual devices.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013551Z" creationid="LiarOnce" creationdate="20221214T013551Z">
+        <seg>管理在各个设备上运行的脚本模块。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manage virtual device ports made available for multiuser connections.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013559Z" creationid="LiarOnce" creationdate="20221214T013559Z">
+        <seg>管理可用于多用户连接的虚拟设备端口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23009,6 +23321,14 @@ Hop IP</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Open the Activity Wizard to create your own PKA activities.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013554Z" creationid="LiarOnce" creationdate="20221214T013554Z">
+        <seg>打开活动向导以创建您自己的PKA活动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open the Email application.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -24217,6 +24537,14 @@ Local</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Paste Network Items</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013810Z" creationid="LiarOnce" creationdate="20221214T013810Z">
+        <seg>粘贴网络项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paste to CLI</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -25097,6 +25425,14 @@ Local</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please use the 64bit version of Cisco Packet Tracer to open this file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013737Z" creationid="LiarOnce" creationdate="20221214T013737Z">
+        <seg>请使用64位版本的Cisco Packet Tracer打开此文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please use the Scripting page of Activity Wizard to edit an activity file's script module.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -25961,6 +26297,14 @@ Local</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Profile is unrelated to your login information and status.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013724Z" creationid="LiarOnce" creationdate="20221214T013724Z">
+        <seg>个人资料与您的登录信息和状态无关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Profiles</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -26421,6 +26765,14 @@ Local</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>快速搜索...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quit Packet Tracer and log out of your account.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013539Z" creationid="LiarOnce" creationdate="20221214T013539Z">
+        <seg>退出 Packet Tracer 并注销您的帐户。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28870,6 +29222,14 @@ layer's PDU to create the PDU at the next higher layer.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Save your Packet Tracer file and package external resources with it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013836Z" creationid="LiarOnce" creationdate="20221214T013836Z">
+        <seg>保存您的Packet Tracer文件并将外部资源打包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SaveAs Pkc..</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -28882,6 +29242,14 @@ layer's PDU to create the PDU at the next higher layer.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>另存为Pkz..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Saving Offline Copy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013755Z" creationid="LiarOnce" creationdate="20221214T013755Z">
+        <seg>保存脱机副本</seg>
       </tuv>
     </tu>
     <tu>
@@ -30238,6 +30606,14 @@ Num</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>设置背景图像 (Shift+I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set the name, email, and additional information to be used for submission of this file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013721Z" creationid="LiarOnce" creationdate="20221214T013721Z">
+        <seg>设置用于提交此文件的名称、电子邮件和其他信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38669,6 +39045,14 @@ Address:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The file was not saved correctly.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013732Z" creationid="LiarOnce" creationdate="20221214T013732Z">
+        <seg>文件保存不正确。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following list of items contains unrecoverable errors and were not fixed:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T151316Z" creationid="LiarOnce" creationdate="20221211T151316Z">
@@ -40757,6 +41141,14 @@ Address:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The source copy is newer than this version of %1.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013813Z" creationid="LiarOnce" creationdate="20221214T013813Z">
+        <seg>源副本比此版本的%1更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The source device sends out an IPv6 fragment (FO: [[FO]], payload length [[LEN]] bytes, and total length [[PKT_LEN]] bytes).</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -41281,6 +41673,22 @@ Address:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are some outdated IoT devices.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013905Z" creationid="LiarOnce" creationdate="20221214T013905Z">
+        <seg>有一些过时的物联网设备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are some outdated user apps.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013907Z" creationid="LiarOnce" creationdate="20221214T013907Z">
+        <seg>有一些过时的用户应用程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are two feedback pages.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -41489,6 +41897,14 @@ Address:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This activity countdown timer has expired, saving is disallowed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013823Z" creationid="LiarOnce" creationdate="20221214T013823Z">
+        <seg>此活动倒计时计时器已过期，不允许保存。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This activity has connectivity tests.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -41597,6 +42013,22 @@ Address:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>该字段是通告的完整内容的校验和（老化时间字段除外）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This file requires Cisco Packet Tracer version %1.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013739Z" creationid="LiarOnce" creationdate="20221214T013739Z">
+        <seg>此文件需要Cisco Packet Tracer版本%1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This file requires more addressable RAM than a 32bit process is allowed to use.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013735Z" creationid="LiarOnce" creationdate="20221214T013735Z">
+        <seg>该文件需要比32位进程所允许使用的更多的可寻址RAM。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42159,6 +42591,14 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</seg
       </tuv>
       <tuv lang="zh-CN">
         <seg>要禁用访问某一特定接口，请选中相应的复选框:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To eliminate this restriction, please go to this location and sign up for the &lt;u&gt;&lt;b&gt;free&lt;/b&gt;&lt;/u&gt; %4 training course.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013654Z" creationid="LiarOnce" creationdate="20221214T013654Z">
+        <seg>若要取消此限制，请转到此位置并注册免费的%4培训课程(&lt;u&gt;&lt;/b&gt;&lt;/u&gt;)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42795,10 +43235,26 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unable to open your temporary folder for writing.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013741Z" creationid="LiarOnce" creationdate="20221214T013741Z">
+        <seg>无法打开要写入的临时文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unable to overwrite %1.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>无法覆盖%1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unable to paste.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013811Z" creationid="LiarOnce" creationdate="20221214T013811Z">
+        <seg>无法粘贴。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42919,6 +43375,14 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</seg
       </tuv>
       <tuv lang="zh-CN">
         <seg>更新设备？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Update User Apps?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013805Z" creationid="LiarOnce" creationdate="20221214T013805Z">
+        <seg>是否更新用户应用程序？</seg>
       </tuv>
     </tu>
     <tu>
@@ -44205,10 +44669,58 @@ Contact: miwang@cisco.com</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>View all commands entered in this file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013352Z" creationid="LiarOnce" creationdate="20221214T013352Z">
+        <seg>查看此文件中输入的所有命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View all external applications currently attached to Packet Tracer.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013359Z" creationid="LiarOnce" creationdate="20221214T013359Z">
+        <seg>查看当前连接到 Packet Tracer 的所有外部应用程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>View name</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>查看名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View the entire workspace.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013321Z" creationid="LiarOnce" creationdate="20221214T013321Z">
+        <seg>查看整个工作区。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View the workspace as a logical representation of the network.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013330Z" creationid="LiarOnce" creationdate="20221214T013258Z">
+        <seg>查看具有网络逻辑表示的工作空间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View the workspace as a tabular list of devices and links.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013327Z" creationid="LiarOnce" creationdate="20221214T013327Z">
+        <seg>以设备和链路的表格列表形式查看工作空间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View the workspace with a physical representation of the network.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013302Z" creationid="LiarOnce" creationdate="20221214T013302Z">
+        <seg>查看具有网络物理表示的工作空间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45208,6 +45720,14 @@ button.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You have used %1 of your %2 saves available in the guest version of %3.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013649Z" creationid="LiarOnce" creationdate="20221214T013649Z">
+        <seg>您已经使用了来宾版本%3中可用的%2保存中的%1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You may also use the View Filter to show only certain categories.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -45257,10 +45777,26 @@ left off or adjust the filters to view previous events.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You will need to enter your login credentials again in your next session.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013541Z" creationid="LiarOnce" creationdate="20221214T013541Z">
+        <seg>您需要在下一次会话中再次输入登录凭据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your Name:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>您的姓名:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your current version is %2.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013740Z" creationid="LiarOnce" creationdate="20221214T013740Z">
+        <seg>您当前的版本是%2。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45637,6 +46173,14 @@ left off or adjust the filters to view previous events.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T150427Z" creationid="LiarOnce" creationdate="20221211T150427Z">
         <seg>和 ExApp 支持的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>another instance of %1.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013827Z" creationid="LiarOnce" creationdate="20221214T013827Z">
+        <seg>%1的另一个实例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46078,6 +46622,14 @@ policy.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>will now save and launch an offline copy of the multiuser networks in</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T013825Z" creationid="LiarOnce" creationdate="20221214T013825Z">
+        <seg>现在将保存并启动多用户网络的脱机副本</seg>
       </tuv>
     </tu>
     <tu>
