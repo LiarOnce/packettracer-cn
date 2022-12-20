@@ -4590,11 +4590,12 @@ Router</seg>
       </tuv>
     </tu>
     <tu>
+      <note>不要翻译！！！</note>
       <tuv lang="en-US">
         <seg>Access</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>访问</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124509Z">
+        <seg>Access</seg>
       </tuv>
     </tu>
     <tu>
@@ -5416,6 +5417,14 @@ Access:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>允许访问的远程IP地址:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alpha</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124818Z" creationid="LiarOnce" creationdate="20221220T124818Z">
+        <seg>Alpha</seg>
       </tuv>
     </tu>
     <tu>
@@ -6624,6 +6633,14 @@ Destination: %3</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Beta</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124820Z" creationid="LiarOnce" creationdate="20221220T124820Z">
+        <seg>Beta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bit 0, if set, indicates that the area accepts and operates on external information; if zero, it is a stub area.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -7106,6 +7123,14 @@ View Previous Events</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CDeviceTypesBox</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124742Z" creationid="LiarOnce" creationdate="20221220T124742Z">
+        <seg>CDeviceTypesBox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CELL TOWER</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -7463,6 +7488,14 @@ Send/Receive</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>无法使用该扩展名重命名文件.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cannot turn on wireless port when Bluetooth tethering is enabled.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124733Z" creationid="LiarOnce" creationdate="20221220T124733Z">
+        <seg>启用蓝牙连接时，无法打开无线端口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9042,6 +9075,14 @@ Prompt</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>上下文帮助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Context Sensitive Help</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124550Z" creationid="LiarOnce" creationdate="20221220T124550Z">
+        <seg>上下文相关帮助</seg>
       </tuv>
     </tu>
     <tu>
@@ -11135,6 +11176,14 @@ Time</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Device Physical View</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124732Z" creationid="LiarOnce" creationdate="20221220T124732Z">
+        <seg>设备物理视图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Device Table</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -12975,6 +13024,14 @@ Time</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Environments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124824Z" creationid="LiarOnce" creationdate="20221220T124824Z">
+        <seg>环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Equivalent IOS Commands</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -13079,6 +13136,14 @@ Time</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Error renaming file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124737Z" creationid="LiarOnce" creationdate="20221220T124737Z">
+        <seg>重命名文件时出错。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Error starting script module (%1).</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -13115,6 +13180,14 @@ Time</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>Ethernet II报头</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ethernet6</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124827Z" creationid="LiarOnce" creationdate="20221220T124827Z">
+        <seg>以太网络6</seg>
       </tuv>
     </tu>
     <tu>
@@ -14625,6 +14698,14 @@ Threshold:</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Front</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124807Z" creationid="LiarOnce" creationdate="20221220T124807Z">
+        <seg>前方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Full Duplex</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -14685,6 +14766,14 @@ Threshold:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221214T014141Z" creationid="LiarOnce" creationdate="20221214T014141Z">
         <seg>GUI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gamma</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124818Z" creationid="LiarOnce" creationdate="20221220T124813Z">
+        <seg>Gamma</seg>
       </tuv>
     </tu>
     <tu>
@@ -18663,6 +18752,14 @@ Port</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IoT IDE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124726Z" creationid="LiarOnce" creationdate="20221220T124726Z">
+        <seg>物联网 IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IoT TCP</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221124T115419Z" creationid="LiarOnce" creationdate="20221124T115419Z">
@@ -19893,6 +19990,22 @@ ID</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>List of device categories</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124756Z" creationid="LiarOnce" creationdate="20221220T124756Z">
+        <seg>设备类别列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>List of device models</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124741Z" creationid="LiarOnce" creationdate="20221220T124741Z">
+        <seg>设备型号列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -27745,6 +27858,14 @@ Local</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rear</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124804Z" creationid="LiarOnce" creationdate="20221220T124804Z">
+        <seg>后方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reassembling fragments are successful.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -29966,6 +30087,14 @@ layer's PDU to create the PDU at the next higher layer.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Search for device</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124758Z" creationid="LiarOnce" creationdate="20221220T124758Z">
+        <seg>搜索设备</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Second.</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -30644,6 +30773,14 @@ layer's PDU to create the PDU at the next higher layer.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>已发送:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Seq #</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124753Z" creationid="LiarOnce" creationdate="20221220T124753Z">
+        <seg>序列号 #</seg>
       </tuv>
     </tu>
     <tu>
@@ -31993,6 +32130,14 @@ Address:</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>开始Ping</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start to Restore</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124838Z" creationid="LiarOnce" creationdate="20221220T124838Z">
+        <seg>开始恢复</seg>
       </tuv>
     </tu>
     <tu>
@@ -43363,6 +43508,14 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Transitions</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124531Z" creationid="LiarOnce" creationdate="20221220T124531Z">
+        <seg>跃迁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Translate</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -43431,6 +43584,15 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</seg
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154942Z" creationid="LiarOnce" creationdate="20221211T154942Z">
         <seg>触发器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>不要翻译！！！</note>
+      <tuv lang="en-US">
+        <seg>Trunk</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124513Z" creationid="LiarOnce" creationdate="20221220T124513Z">
+        <seg>Trunk</seg>
       </tuv>
     </tu>
     <tu>
@@ -43523,18 +43685,26 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tx Ring Limit</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124714Z" creationid="LiarOnce" creationdate="20221220T124540Z">
+        <seg>Tx Ring 限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tx Ring Limit must be a number.</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>Tx Ring Limit必须是一个数字.</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124718Z">
+        <seg>Tx Ring 限制必须是一个数字.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Tx Ring Limit out of range [1 - 32767]</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>Tx Ring Limit超出范围[1 - 32767]</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124721Z">
+        <seg>Tx Ring 限制超出范围[1 - 32767]</seg>
       </tuv>
     </tu>
     <tu>
@@ -43747,10 +43917,18 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unable to process environment XML</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124833Z" creationid="LiarOnce" creationdate="20221220T124833Z">
+        <seg>无法处理环境 XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unable to read environment XML</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>无法读取环境XML</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124836Z">
+        <seg>无法读取环境 XML</seg>
       </tuv>
     </tu>
     <tu>
@@ -44151,6 +44329,14 @@ To Remove: Click anywhere in the row to be deleted and press the Delete key</seg
       </tuv>
       <tuv lang="zh-CN">
         <seg>用户账户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>User Apps Manager</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124728Z" creationid="LiarOnce" creationdate="20221220T124728Z">
+        <seg>用户应用程序管理器</seg>
       </tuv>
     </tu>
     <tu>
@@ -45896,6 +46082,14 @@ button.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wireless AP</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124545Z" creationid="LiarOnce" creationdate="20221220T124545Z">
+        <seg>无线 AP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wireless Client List</seg>
       </tuv>
       <tuv lang="zh-CN">
@@ -46565,6 +46759,14 @@ left off or adjust the filters to view previous events.</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>[智慧城市]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Structured Cabling]</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T124801Z" creationid="LiarOnce" creationdate="20221220T124801Z">
+        <seg>[结构化布线]</seg>
       </tuv>
     </tu>
     <tu>
