@@ -12610,8 +12610,8 @@ Time</seg>
       <tuv lang="en-US">
         <seg>End Device</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T160000Z" creationid="LiarOnce" creationdate="20221211T160000Z">
-        <seg>终端设备</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T131213Z" creationid="LiarOnce" creationdate="20221211T160000Z">
+        <seg>End Device</seg>
       </tuv>
     </tu>
     <tu>
@@ -28801,8 +28801,8 @@ layer's PDU to create the PDU at the next higher layer.</seg>
       <tuv lang="en-US">
         <seg>Router</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>路由器</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T131211Z">
+        <seg>Router</seg>
       </tuv>
     </tu>
     <tu>
@@ -32624,8 +32624,8 @@ Address:</seg>
       <tuv lang="en-US">
         <seg>Switch</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>交换机</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T131208Z">
+        <seg>Switch</seg>
       </tuv>
     </tu>
     <tu>
@@ -46565,8 +46565,8 @@ left off or adjust the filters to view previous events.</seg>
       <tuv lang="en-US">
         <seg>Zone Pairs</seg>
       </tuv>
-      <tuv lang="zh-CN">
-        <seg>Zone对</seg>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221220T131236Z">
+        <seg>区域对</seg>
       </tuv>
     </tu>
     <tu>
