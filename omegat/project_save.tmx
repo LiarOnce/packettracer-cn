@@ -12607,6 +12607,7 @@ Time</seg>
       </tuv>
     </tu>
     <tu>
+      <note>不要翻译！！！</note>
       <tuv lang="en-US">
         <seg>End Device</seg>
       </tuv>
@@ -28798,6 +28799,7 @@ layer's PDU to create the PDU at the next higher layer.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>不要翻译！！！</note>
       <tuv lang="en-US">
         <seg>Router</seg>
       </tuv>
@@ -32621,6 +32623,7 @@ Address:</seg>
       </tuv>
     </tu>
     <tu>
+      <note>不要翻译！！！</note>
       <tuv lang="en-US">
         <seg>Switch</seg>
       </tuv>
