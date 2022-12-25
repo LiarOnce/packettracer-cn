@@ -15,7 +15,7 @@ Cisco Packet Tracer 8.x language file for Simplified Chinese
  
  1. **在使用本仓库之前请先安装 Okapi Filters Plugin for OmegaT 插件，否则无法识别到原文文档**
  2. 使用 OmegaT 克隆本项目，或直接下载本仓库并用 OmegaT 打开，进入项目界面后点击`项目 --> 创建译文文档`，之后点击`项目 --> 访问项目内容 --> 译文文件`即可找到生成后的 `Simplified Chinese.ts` 文件
- 3. 使用 Visual Studio Code 等代码编辑器打开生成后的 `Simplified Chinese.ts` 文件，右下角语言选择 XML (默认会被识别为 TypeScript，会提示大量报错)，查找` type="unfinished"`(包含空格)，替换则不填（即清空所有查找到的结果），之后保存该文件
+ 3. 使用 Visual Studio Code 等代码编辑器打开生成后的 `Simplified Chinese.ts` 文件，右下角语言选择 XML (默认会被识别为 TypeScript，会提示大量报错)，查找` type="unfinished"`(包含空格)，替换则不填（即删除所有查找到的结果），之后保存该文件
  4. 使用 Qt Linguist 打开处理后的文件，之后点击`保存 --> 发布`，即可在该文件所在的目录找到`Simplified Chinese.qm`文件，将文件后缀名`.qm`改为`.ptl`后即可将该语言文件应用于 Packet Tracer
 
 ## License
