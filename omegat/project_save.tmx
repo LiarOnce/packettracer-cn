@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_33926380" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30257,6 +30257,14 @@ layer's PDU to create the PDU at the next higher layer.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Seed and Number variables can be substituted for text data using [[variablename]].To Edit: Double-Click in the cell and change the valueTo Remove: Click anywhere in the row to be deleted and press the Delete key</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230422T100807Z" creationid="LiarOnce" creationdate="20230422T100807Z">
+        <seg>种子和数字变量可以用 [[variablename]] 代替文本数据。编辑：双击单元格并更改数值。删除：单击要删除的行中的任意位置，然后按 Delete 键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Seed variables can be substituted for integers using [[variablename]].</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20221211T154857Z" creationid="LiarOnce" creationdate="20221211T154857Z">
@@ -43107,6 +43115,14 @@ stamp</seg>
       </tuv>
       <tuv lang="zh-CN">
         <seg>标题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To Add: Fill in the required Name and Text FieldsThe Text field can contain text, numbers, Seeds and Number Variables data, separated by semi-colons to create the data pool.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20230422T100734Z" creationid="LiarOnce" creationdate="20230422T100734Z">
+        <seg>添加：填写所需的名称和文本字段文本字段可以包含文本、数字、种子和数字变量数据，用分号分隔以创建数据池。</seg>
       </tuv>
     </tu>
     <tu>
